@@ -8,3 +8,9 @@ Die Erweiterung zeigt auch eine Liste der auf der Website gespeicherten Cookies 
 Darüber hinaus gibt es zwei Schaltflächen am Ende des Dropdown-Menüs. Die erste Schaltfläche öffnet eine SSL-Berichtsseite für die aktuelle Webseite. Die zweite Schaltfläche schließt alle Abschnitte des Dropdown-Menüs.
 
 Insgesamt bietet die Erweiterung Sicher Zahlen eine einfache Möglichkeit, die Sicherheit der besuchten Websites zu überprüfen und zu erfahren, welche Cookies von der Website verwendet werden und wie sie gespeichert sind.
+
+# Installation
+- Checkout cookiemonster
+- In chrome, go to "chrome://extensions"
+- Check "Developer mode" in the upper right corner
+- Click on "Load unpacked extension..." and select the Sicher-zahlen folder
